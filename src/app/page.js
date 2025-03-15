@@ -39,10 +39,6 @@ const images = [
     text: "Salata Kanka",
   },
   {
-    src: "/photos/photo8.jpeg",
-    text: "Kaşıkkkk",
-  },
-  {
     src: "/photos/photo9.jpeg",
     text: "Only Youuuuu",
   },
