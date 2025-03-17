@@ -11,6 +11,10 @@ import "swiper/css/pagination";
 
 const images = [
   {
+    src: "/photos/photo10.jpeg",
+    text: "NAM NAM NAM",
+  },
+  {
     src: "/photos/photo1.jpeg",
     text: "İlllaki Döner Beeeh",
   },
